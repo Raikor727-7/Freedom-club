@@ -34,5 +34,29 @@ Para exemplificar vamos imaginar um cenário hipotético:
 - Contramedidas cabíveis, não por seu endereço exato, usar número descartável, não ceder nada para a Meta.
 
 esse seria um exemplo de uma ocorrência, mas pode ter varias, como vazamento de cpf, ou rg, ou você só não quer ter seus dados vigiados.
-Depende muito
+Depende muito.
+
+#### Resumindo:
+Opsec não é apenas um ato, é um jeito de se viver, onde precisa viver de uma forma que não exponha seus dados. Infelizmente é o preço a ser pago
+
+> _alias só avisando, única forma atual de ser 100% anônimo é ficando fora da internet, de resto só podemos dificultar e diminuir o rastreamento._
+
+## Personas
+
+> irei fazer....
+
+## Emails
+
+Vamos agora para uma coisa essencial, que é necessário para tudo na internet.
+O Email.  
+"Ah mas eu uso o gmail", o email da maior bigtech existente, obviamente não será privado, seus dados são usados para treinar IA e para propor anúncios a você.
+Eu particulamente gosto de alguns provedores de email:
+
+1. ProtonMail (pode acostumar com a proton pois vai aparecer ainda muitoo aqui).
+2. Posteo 
+3. Tuta (antigo Tutamota)
+
+vamos passar por cada desses e dizer suas características e vantagens e desvantagens.
+
+### ProtonMail
 
