@@ -1,4 +1,4 @@
-# INICIO DE TUDO
+# Freedom Club
 
 ## Introdução
 
@@ -44,11 +44,11 @@ Opsec não é apenas um ato, é um jeito de se viver, onde precisa viver de uma 
 
 > Observação: _só avisando, única forma atual de ser 100% anônimo é ficando fora da internet, de resto só podemos dificultar e diminuir o rastreamento._
 
-## Sistemas Operacionais
+# Sistemas Operacionais
 
 > irei fazer....
 
-## Personas
+# Personas
 
 > irei fazer....
 
@@ -66,7 +66,7 @@ Eu particulamente gosto de alguns provedores de email:
 vamos passar por cada desses e dizer suas características e vantagens e desvantagens.
 
 ****
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 ## ProtonMail
 
 ### Apresentação da Proton
@@ -96,7 +96,7 @@ mas como tudo tem suas **desvantagens**:
 Em resumo é isso, o ProtonMail é uma ótima porta de entrada para o mundo da privacidade digital.
 
 ____
-![alt text](image-4.png)
+![alt text](images/image-4.png)
 ## Posteo
 
 **[Posteo](https://posteo.de/en)** é um serviço de email da Alemanha _(sim faz parte dos X olhos, mas a proposta é bem daora)_.  
@@ -150,7 +150,7 @@ Os upgrades são (acréscimos mensais):
 Sinceramente nunca ouvi nóticias sobre entrega de dados desse email, mas talvez por motivos de nenhuma autoridade ter batido lá ainda, então fica como nunca entregou ninguém.
 
 ___
-![alt text](image.png)
+![alt text](images/image.png)
 ## Tuta
 
 **[Tuta](https://tuta.com/)** é o antigo tutanota, é um serviço de Email Open-Source
@@ -227,24 +227,25 @@ ou saia e seja correlacionado.
 
 ### Resumo
 Sempre existirá diversos emails, tantos privados, como Temporarios, então sempre busque alternativas e pode até me mandar que adiciono nesse documento, ou faz um Merge, tanto faz.
+____
 
-## Browsers
-
-> irei fazer....
-
-## Tipos de Redes
+# Browsers
 
 > irei fazer....
 
-## Serviços de Chat
+# Tipos de Redes
 
 > irei fazer....
 
-## VPN
+# Serviços de Chat
 
 > irei fazer....
 
-## Mobile
+# VPN
+
+> irei fazer....
+
+# Mobile
 
 > irei fazer....
 
