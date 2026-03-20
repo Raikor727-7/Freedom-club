@@ -3,23 +3,23 @@
 
 # Introdução
 
-Com o grande avanço da Tecnologia de Inteligência Artificial, e com avanços de governos e empresas, em métodos expiatórios e de coleta massiva de dados. É natural imaginar que tenham pessoas que queiram evitar isso, e por esse motivo crio este guia focado em lhe apresentar tecnologias e técnicas para auxiliar você nisso, Espero que seja de ajuda para que você comece a se proteger, ou apenas a ter mais privacidade.
+Com o grande avanço da Tecnologia de Inteligência Artificial, e com o desenvolvimento tecnológico de governos e empresas, em métodos expiatórios e de coleta massiva de dados. É natural imaginar que tenham pessoas que queiram evitar isso, e por esse motivo crio este guia focado em lhe apresentar tecnologias e técnicas para auxiliar você nisso, Espero que seja de ajuda para que você comece a se proteger, ou apenas a ter mais privacidade.
 
-> _nota: Sou apenas uma pessoa apaixonado por cybersegurança, e que gosta de ajudar e ensinar outras pessoas, esse guia ainda está imcompleto sempre faltará algo a mais para segurança._
+> _nota: Sou apenas uma pessoa apaixonada por cybersegurança, e que gosta de ajudar e ensinar outras pessoas, esse guia ainda está imcompleto uma vez que segurança nunca é demais._
 
 # POR QUE SER ANÔNIMO?
 ![alt text](images/anonimo.png)  
 A maioria das pessoas ouve "anonimato" e pensa em hacker de capuz, ou em alguém fazendo algo ilegal na dark web.  
 Mas pensa comigo:  
 - Você fecha a porta do banheiro mesmo quando está sozinho em casa?  
-- Você não fala sua senha do banco em voz alta no ônibus?  
-- Você não entrega seu diário para um estranho ler?  
+- Você não fala sua senha do banco em voz alta no ônibus? Com certeza não.   
+- Você não entrega seu diário para um estranho ler?  Também não.   
 
 **Isso não é paranoia.**  
 É um comportamento natural de quem entende que algumas coisas são suas, e só suas. 
 
 Anonimato é exatamente isso, o direito de existir em algum espaço sem ser observado, catalogado e analisado.  
-Você não precisa ter nada a esconder para querer privacidade. Você só precisa ser humano.  
+Você não precisa ter nada a esconder para querer privacidade. Você só precisa ser humano, é autopreservação.  
 
 # Por que privacidade importa?
 
@@ -43,11 +43,11 @@ Privacidade é o que garante que você tenha espaço para pensar, errar, mudar d
 
 > Vigilância em massa não precisa prender todo mundo para funcionar. Ela só precisa que as pessoas se comportem como se pudessem ser presas a qualquer momento.
 
-Isso se chama efeito inibidor, e é exatamente o que acontece quando as pessoas sabem que são observadas. Elas param de questionar. Param de pesquisar. Param de falar (1984, ou qualquer governo autoritário).  
-E aí é quando a vigilância já ganhou. Sem precisar fazer nada.
+Isso se chama efeito inibidor, e é exatamente o que acontece quando as pessoas sabem que estão sendo observadas. Elas param de questionar, Param de pesquisar, Param de falar (1984, ou qualquer governo autoritário).  
+É aí quando a vigilância já ganhou. Sem precisar fazer nada.
 
 É por isso que esse guia existe.
-Não para te tornar invisível isso é impossível, como veremos.
+Não para te tornar invisível, afinal, como veremos asseguir, isso é impossível.
 Mas para te dar ferramentas para dificultar ao máximo quem quer que esteja te observando sem sua permissão.
 
 e para conseguir isso, vai precisar saber a base de tudo, a técnica que sustenta isso...
@@ -82,9 +82,9 @@ esse seria um exemplo de uma ocorrência, mas pode ter varias, como vazamento de
 Depende muito.
 
 #### Resumindo:
-Opsec não é apenas um ato, é um jeito de se viver, onde precisa viver de uma forma que não exponha seus dados. Infelizmente é o preço a ser pago
+Opsec não é apenas um ato, é um estilo de vida onde é necessário viver de uma forma que não exponha seus dados. Infelizmente é o preço a ser pago
 
-> Observação: _só avisando, única forma atual de ser 100% anônimo é ficando fora da internet, de resto só podemos dificultar e diminuir o rastreamento._
+> Observação: _só avisando, única forma atual de ser 100% anônimo é ficando fora da internet, de resto só podemos dificultar e/ou diminuir o rastreamento._
 
 # Sistemas Operacionais
 ![alt text](images/SOS.png)
@@ -94,7 +94,7 @@ Sistema operacional é muito importante, pois do que adianta praticar toda a seg
 Sistemas operacionais tem os de código fechado e de código aberto (open-source).
 > _nota: código aberto significa que qualquer pessoa consegue ver o código, analisar e buscar por falhas._  
 
-e por mais incrível que pareça, quanto mais aberto o código menos bugs ou problemas eles tem, pois como qualquer um consegue ver como funciona, acha problemas muito mais rápido, diferente de códigos fechados que é mais dificil achar problemas, mas quando acha depende apenas da empresa dona para executar a correção.
+e por mais incrível que pareça, quanto mais aberto o código for, menos bugs ou problemas eles tem, pois como qualquer um consegue ver como funciona, os problemas são encontrados de maneira muito mais rápida e eficiente, diferente de códigos fechados que é mais dificil achar problemas, mas quando acha depende apenas da empresa dona para executar a correção.
 
 com isso temos os 3 grandes SO (sistemas operacionais, irei abreviar):
 
@@ -102,7 +102,7 @@ com isso temos os 3 grandes SO (sistemas operacionais, irei abreviar):
 - Mac
 - Linux
 
-Vou passar por cada um dele e explicar como tornar mais privado ou um SO específico para privacidade.
+Vou passar por cada um dele e explicar como tornar mais privado ou apresentar um SO específico para privacidade.
 
 
 ## Windows
@@ -112,6 +112,7 @@ Com certeza o SO mais conhecido, e mais popular, mas não é por causa disso que
 As caracteristicas deles (como se ninguem conhecesse):
 - Interface Gráfica Baseada em Janelas
 - Compatibilidade
+    - a maior parte dos softwares são criados para windows.
 - Recursos Modernos
 - Ambiente de Arquivos
 
@@ -151,7 +152,7 @@ irm "https://christitus.com/win" | iex
 ![alt text](images/Apple.png)
 
 Agora vamos para a Apple
-Um sistema até que bom, pois conta com:
+um sistema até que bom, pois conta com:
 - Segurança e Privacidade
     - Mesmo possuindo um vazamento no seu histórico (Mega Vazamento de 2025), é menos constante que os do Windows
     - Apple também costuma ser mais criteriosa em relação à sua privacidade, mas continua sendo empresa fechada
@@ -161,6 +162,8 @@ Um sistema até que bom, pois conta com:
     - Para quem já usa Iphone já facilita
 - Interface e Acessibilidade
     - Fácil de usar no geral.
+
+> Kernel: é a parte mais central e fundamental de um sistema operacional (como Windows, Linux, Android ou macOS). Ele funciona como uma "ponte" ou intermediário essencial entre o software (aplicativos) e o hardware (os componentes físicos, como CPU)
 
 Mas também conta com as desvantagens de:
 - Custo Elevado
@@ -185,6 +188,8 @@ Vantagens do linux:
 - Não é centralizado
 - Seguro (pelo próprio conceito de ser open-source)
 - Gratuito
+
+> Distro: Abreviação de distruibuição (já que o linux é distribuido)
 
 Mas também como todos SO, ele tem suas desvantagens:
 - Jogos (normalmente), tem menos compatibilidade
