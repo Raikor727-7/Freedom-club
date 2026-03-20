@@ -206,7 +206,7 @@ Citações rapidas de distros famosas:
     - [Baixe o Mint](https://linuxmint.com/download.php)
 - Linux Zorin 
     ![alt text](images/zorionos.png )
-    - Eu diria que uma ótima porta de entrada para quem vem de Mac, pois é bem parecido, em questão de aparência e tals.
+    - Eu diria que uma ótima porta de entrada para quem vem de Mac, pois é bem parecido, em questão de aparência e funcionamento.
     - [Baixe o Zorin](https://zorin.com/os/download/)
 - Linux Debian
     ![alt text](images/debiannojenta.png)
@@ -359,7 +359,7 @@ Exemplo: Se você criou o joão, para um forum ou um email, você sempre terá q
 Uma boa persona precisa ser consistente. Isso significa:
 
 **Nome e identidade**: escolha um nome que não tenha ligação com o seu. Nada de usar seu apelido real, data de nascimento, cidade, time de futebol.  
-**História**: defina o básico — país, área de atuação, interesses. Você não precisa de uma biografia completa, mas precisa de respostas prontas para perguntas comuns.  
+**História**: defina o básico: país, área de atuação, interesses. Você não precisa de uma biografia completa, mas precisa de respostas prontas para perguntas comuns.  
 **Estilo de escrita**: se você sempre usa reticências e escreve tudo em minúsculo na vida real... não faça isso na persona. Estilo de escrita é uma impressão digital.  
 **Comportamento**: horários de postagem, tipo de conteúdo que curte ou compartilha, como responde críticas. Tudo isso forma um padrão.  
 
