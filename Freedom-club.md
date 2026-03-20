@@ -424,7 +424,7 @@ Normalmente esta é a porta de entrada para os serviços da Proton. Mas quem é 
 > "Proton é uma organização sem fins lucrativos cuja missão é lutar por uma internet aberta que promova a liberdade de expressão e a liberdade de informação."
 > — própria Proton, no site deles.  
 
-Em um rápido resumo a Proton é uma empresa que serve os mesmo serviços que a Google, mas com o diferencial que prezam pela liberdade e privacidade (tópico discútivel, mas de fato mais prezam mais que o Google).
+Em um rápido resumo a Proton é uma empresa que serve os mesmo serviços que a Google, mas com o diferencial que prezam pela liberdade e privacidade (tópico discútivel, mas de fato prezam mais que o Google).
 
 ### **Serviço de Email** 
 
@@ -497,7 +497,7 @@ Os upgrades são (acréscimos mensais):
 - Calendários adicionais: 0,10 EUR (3 calendários).
 
 **Desvantagens**:  
-Sinceramente nunca ouvi nóticias sobre entrega de dados desse email, mas talvez por motivos de nenhuma autoridade ter batido lá ainda, então fica como nunca entregou ninguém.
+Sinceramente nunca ouvi notícias sobre entrega de dados desse email, mas talvez por motivos de nenhuma autoridade ter batido lá ainda, então fica como nunca entregou ninguém.
 
 ___
 ![alt text](images/image.png)
