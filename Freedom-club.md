@@ -387,7 +387,7 @@ Não é tão difícil quanto parece.
 Quando uma persona for comprometida — ou você simplesmente não precisar mais dela, você faz o seguinte processo:
 
 - Pare de usar imediatamente. Nenhuma despedida, nenhuma última mensagem.  
-- Delete as contas associadas — redes sociais, fóruns, qualquer cadastro.  
+- Delete as contas associadas: redes sociais, fóruns, qualquer cadastro.  
 - Abandone os emails vinculados a ela. Não reutilize em outra persona.  
 - Não mencione ela em nenhum outro lugar, nem indiretamente.  
 - Descarte qualquer dispositivo ou sessão que tenha sido usado exclusivamente por ela, se possível.  
