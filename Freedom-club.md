@@ -923,7 +923,7 @@ O Brave Search atingiu independência completa de outros mecanismos de busca em 
 ---
 
 ### SearXNG
-![alt text](images/searxng.png)
+![alt text](images/searxng.png)  
 O mais poderoso, e o mais técnico.
 
 O SearXNG é um mecanismo de meta-busca open-source que pode ser hospedado por qualquer pessoa. Ele agrega resultados de múltiplos mecanismos enquanto anonimiza suas consultas.
